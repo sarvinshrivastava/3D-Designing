@@ -1,2 +1,2 @@
 # 3D-Designing
-This is a repository containing my best designs made in blender.
+This is a repository containing one my best designs made in blender.
